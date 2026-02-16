@@ -12,11 +12,11 @@ AI Barber Assistant helps barbershops save time and deliver a better client expe
 ---
 🧠 Core Technologies
 
-ElevenLabs — natural voice generation and processing.
-Make — automation and API orchestration.
-Twilio — SMS and voice communication.
-Google Calendar API — scheduling management.
-OpenAI API  — natural language understanding and intent detection.
+-ElevenLabs — natural voice generation and processing.
+-Make — automation and API orchestration.
+-Twilio — SMS and voice communication.
+-Google Calendar API — scheduling management.
+-OpenAI API  — natural language understanding and intent detection.
 
 
 ---
