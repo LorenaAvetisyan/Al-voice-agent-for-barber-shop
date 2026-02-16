@@ -10,32 +10,14 @@ It automates appointment scheduling, client reminders, and customer communicatio
 AI Barber Assistant helps barbershops save time and deliver a better client experience by managing appointments, sending notifications, and handling conversations — all powered by artificial intelligence.
 
 ---
+🧠 Core Technologies
 
-## ⚙️ Features
+ElevenLabs — natural voice generation and processing.
+Make — automation and API orchestration.
+Twilio — SMS and voice communication.
+Google Calendar API — scheduling management.
+OpenAI API  — natural language understanding and intent detection.
 
-- 📅 **Automated Scheduling:**  
-  Connects to your **Google Calendar** to create, modify, and confirm bookings automatically.
-
-- 🗣️ **Voice Conversations:**  
-  Uses **:contentReference[oaicite:0]{index=0}** for natural, human-like voice interactions. The agent can answer calls, talk to clients, and propose available time slots.
-
-- 📱 **SMS Notifications:**  
-  Sends automatic reminders and confirmations using **:contentReference[oaicite:1]{index=1}**.
-
-- 🔗 **Smart Automation:**  
-  Entire workflow is powered by **:contentReference[oaicite:2]{index=2}**, connecting APIs and automating tasks end-to-end.
-
----
-
-## 🧠 Tech Stack
-
-| Component | Technology |
-|------------|-------------|
-| Voice Generation | **:contentReference[oaicite:3]{index=3}** |
-| Automation | **:contentReference[oaicite:4]{index=4}** |
-| SMS & Calls | **:contentReference[oaicite:5]{index=5}** |
-| Calendar Integration | **Google Calendar API** |
-| Language Understanding | **OpenAI API (optional)** |
 
 ---
 
